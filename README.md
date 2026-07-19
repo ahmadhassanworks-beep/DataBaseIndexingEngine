@@ -1,9 +1,7 @@
 Database Indexing Engine
 
 A desktop application built in C++ and Qt Framework , demonstrating core database indexing concepts using a B+ Trees data structure.
-
-Project Overview
-This project was developed as part of a Data Structures project . It simulates a real-world database indexing engine where data is stored, retrieved, and managed efficiently using a B+ Tree.
+ . It simulates a real-world database indexing engine where data is stored, retrieved, and managed efficiently using a B+ Tree.
 
 Features
 - Create custom databases with user-defined column names
